@@ -1,5 +1,5 @@
 # Command line Youtube downloader
-This is a script file for downloading youtube videos by just typing the name in the command line
+This is a script file for downloading youtube videos by just typing the name of the song in the command line
 
 For example if you want to download a popular song named xyz,
 
