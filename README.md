@@ -24,7 +24,9 @@ The following python packages should also be installed :
 6. Try the tool :wink:
 
 
+This is a link to the video for doing this:
 
+https://www.youtube.com/watch?v=H4x1LEe-Of0
 
 
 
