@@ -9,7 +9,7 @@ down xyz
 ```
 
 
-### Steps to use the tool
+## Steps to use the tool
 1. Download you.sh
 2. Make it executable using chmod 
 3. Edit you.sh to the place where you need to place the downloaded music.
