@@ -7,7 +7,11 @@ Type like this and the terminal:
 ```
 down xyz
 ```
+For using this tool you should have python installed .
 
+The following python packages should also be installed :
+- lxml
+- requests
 
 ## Steps to use the tool
 1. Download you.sh
@@ -16,6 +20,7 @@ down xyz
 4. Save changes and move you.sh into /usr/bin
 5. Create a symbolic link name down inside /usr/bin
 6. Try the tool :wink:
+
 
 
 
