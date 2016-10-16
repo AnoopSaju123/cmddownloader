@@ -7,7 +7,9 @@ Type like this and the terminal:
 ```
 down xyz
 ```
-For using this tool you should have python installed .
+##Prerequisites
+- youtube-dl
+- python
 
 The following python packages should also be installed :
 - lxml
